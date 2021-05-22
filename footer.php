@@ -20,9 +20,9 @@
                     <div class="contact">
                         <ul>
                             <li>EMAIL : <a href="#"> valerie@gmail.com</a></li>
-                            <li>PHONE : +33 123456789</li>
+                            <li>PHONE : +33 12345789</li>
                         </ul>
-                    </div>
+                    </div> 
                 </div>
             </div>
             <div class="footer-bottom text-center">
