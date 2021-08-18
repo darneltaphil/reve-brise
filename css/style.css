@@ -132,7 +132,11 @@ background: radial-gradient(circle farthest-corner at center center, #875717 0%,
     overflow: hidden;
 }
 .slider-wrapper .single-slide {
-    background-color: #fff;
+/*    background-color: #fff;*/
+ background: rgb(223,184,94);
+background: -webkit-radial-gradient(circle farthest-corner at center center, #aaa 30%, #ccc 50%, #aaa 100%);
+background: -moz-radial-gradient(circle farthest-corner at center center, #aaa  30%, #ccc 50%, #aaa 100%);
+background: radial-gradient(circle farthest-corner at center center, #aaa 30%, #ccc 50%, #aaa 100%);
     position: relative;
     z-index: 99;
 }
